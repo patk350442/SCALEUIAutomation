@@ -66,6 +66,7 @@ public class HomePageTest extends base {
 	@DataProvider
 	public Object[][] getData()
 	{
+		log.info("inside dataProvider");
 		Object[][] data=new Object[2][3];
 		
 		data[0][0]="restricteduser@gmail.com";
