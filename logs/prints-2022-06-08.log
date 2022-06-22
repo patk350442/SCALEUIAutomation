@@ -1,0 +1,57 @@
+00:29:56.049 [TestNG-tests-1] INFO  resources.base - Ending beforeTest for NavigationBarTest..
+00:29:56.247 [TestNG-tests-1] INFO  resources.base - Starting...@AfterTest NavigationBarTest
+00:29:56.329 [TestNG-tests-1] INFO  resources.base - Ending...@AfterTest ValidateTitleTest
+00:30:21.205 [TestNG-tests-3] INFO  resources.base - Navigated to URL
+00:30:23.708 [TestNG-tests-3] INFO  resources.base - Starting...@AfterTest HomePageTest
+00:32:46.266 [TestNG-tests-3] INFO  resources.base - Starting beforeTest for HomePageTest..
+00:32:46.266 [TestNG-tests-2] INFO  resources.base - Starting beforeTest for ValidateTitleTest..
+00:32:46.266 [TestNG-tests-1] INFO  resources.base - Starting beforeTest for NavigationBarTest..
+00:32:49.355 [TestNG-tests-3] INFO  resources.base - initialized driver...
+00:32:49.355 [TestNG-tests-3] INFO  resources.base - Ending beforeTest for HomePageTest..
+00:32:49.420 [TestNG-tests-3] INFO  resources.base - Opening url
+00:33:08.046 [TestNG-tests-2] INFO  resources.base - initialized driver for ValidateTitleTest...
+00:33:08.046 [TestNG-tests-2] INFO  resources.base - Ending beforeTest for ValidateTitleTest..
+00:33:08.066 [TestNG-tests-1] INFO  resources.base - initialized driver for NavigationBarTest...
+00:33:08.066 [TestNG-tests-1] INFO  resources.base - Ending beforeTest for NavigationBarTest..
+00:33:08.140 [TestNG-tests-3] INFO  resources.base - Navigated to URL
+00:33:08.268 [TestNG-tests-2] INFO  resources.base - Starting...@AfterTest NavigationBarTest
+00:33:08.268 [TestNG-tests-1] INFO  resources.base - Starting...@AfterTest NavigationBarTest
+00:33:08.380 [TestNG-tests-2] INFO  resources.base - Ending...@AfterTest NavigationBarTest
+00:33:08.418 [TestNG-tests-1] INFO  resources.base - Ending...@AfterTest ValidateTitleTest
+00:33:09.106 [TestNG-tests-3] INFO  resources.base - Restricted user
+00:33:09.291 [TestNG-tests-3] INFO  resources.base - successfully validated last step in homePageLogin test
+00:33:09.294 [TestNG-tests-3] INFO  resources.base - Opening url
+00:33:21.865 [TestNG-tests-3] INFO  resources.base - Navigated to URL
+00:33:31.927 [TestNG-tests-3] INFO  resources.base - Starting...@AfterTest HomePageTest
+00:33:32.005 [TestNG-tests-3] INFO  resources.base - Ending...@AfterTest HomePageTest
+00:39:35.695 [TestNG-tests-1] INFO  resources.base - Starting beforeTest for NavigationBarTest..
+00:39:35.695 [TestNG-tests-2] INFO  resources.base - Starting beforeTest for ValidateTitleTest..
+00:39:35.695 [TestNG-tests-3] INFO  resources.base - Starting beforeTest for HomePageTest..
+00:39:37.882 [TestNG-tests-1] INFO  resources.base - initialized driver for NavigationBarTest...
+00:39:37.961 [TestNG-tests-3] INFO  resources.base - initialized driver...
+00:39:37.961 [TestNG-tests-3] INFO  resources.base - Ending beforeTest for HomePageTest..
+00:39:37.991 [TestNG-tests-3] INFO  resources.base - Opening url HomePageTest
+00:39:38.264 [TestNG-tests-2] INFO  resources.base - initialized driver for ValidateTitleTest...
+00:39:50.568 [TestNG-tests-3] INFO  resources.base - Navigated to URL HomePageTest
+00:39:52.668 [TestNG-tests-3] INFO  resources.base - Restricted user
+00:39:52.912 [TestNG-tests-3] INFO  resources.base - successfully validated last step in homePageLogin test
+00:39:52.917 [TestNG-tests-3] INFO  resources.base - Opening url HomePageTest
+00:39:56.037 [TestNG-tests-1] INFO  resources.base - opening url for for NavigationBarTest..
+00:39:56.037 [TestNG-tests-1] INFO  resources.base - Ending beforeTest for NavigationBarTest..
+00:39:56.267 [TestNG-tests-1] INFO  resources.base - successfully validated NavigationBarTest..
+00:39:56.270 [TestNG-tests-1] INFO  resources.base - Starting...@AfterTest NavigationBarTest
+00:39:56.361 [TestNG-tests-1] INFO  resources.base - Ending...@AfterTest NavigationBarTest
+00:39:56.552 [TestNG-tests-2] INFO  resources.base - opening url for for ValidateTitleTest..
+00:39:56.552 [TestNG-tests-2] INFO  resources.base - Ending beforeTest for ValidateTitleTest..
+00:39:56.809 [TestNG-tests-2] INFO  resources.base - successfully validated ValidateTitleTest..
+00:39:56.810 [TestNG-tests-2] INFO  resources.base - Starting...@AfterTest ValidateTitleTest
+00:39:56.903 [TestNG-tests-2] INFO  resources.base - Ending...@AfterTest ValidateTitleTest
+00:40:25.369 [TestNG-tests-3] INFO  resources.base - Navigated to URL HomePageTest
+00:40:35.428 [TestNG-tests-3] INFO  resources.base - Starting...@AfterTest HomePageTest
+00:40:35.510 [TestNG-tests-3] INFO  resources.base - Ending...@AfterTest HomePageTest
+12:36:50.563 [main] INFO  resources.base - Starting beforeTest for HomePageTest..
+12:39:34.830 [main] INFO  resources.base - Starting beforeTest for HomePageTest..
+12:39:36.312 [main] INFO  resources.base - initialized driver...
+12:39:36.312 [main] INFO  resources.base - Ending beforeTest for HomePageTest..
+12:39:36.327 [main] INFO  resources.base - Opening url HomePageTest
+12:41:07.425 [main] INFO  resources.base - Navigated to URL HomePageTest
