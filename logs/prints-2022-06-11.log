@@ -1,0 +1,59 @@
+12:41:07.962 [main] INFO  resources.base - Restricted user
+12:41:08.108 [main] INFO  resources.base - successfully validated last step in homePageLogin test
+12:41:08.110 [main] INFO  resources.base - Opening url HomePageTest
+12:41:30.029 [main] INFO  resources.base - Navigated to URL HomePageTest
+12:41:40.071 [main] INFO  resources.base - Starting...@AfterTest HomePageTest
+12:41:40.133 [main] INFO  resources.base - Ending...@AfterTest HomePageTest
+18:57:21.026 [main] INFO  resources.base - Starting beforeTest for NavigationBarTest..
+18:57:22.935 [main] INFO  resources.base - initialized driver for NavigationBarTest...
+18:57:40.910 [main] INFO  resources.base - opening url for for NavigationBarTest..
+18:57:40.910 [main] INFO  resources.base - Ending beforeTest for NavigationBarTest..
+18:58:05.992 [TestNG-tests-3] INFO  resources.base - Starting beforeTest for HomePageTest..
+18:58:05.992 [TestNG-tests-2] INFO  resources.base - Starting beforeTest for ValidateTitleTest..
+18:58:05.992 [TestNG-tests-1] INFO  resources.base - Starting beforeTest for NavigationBarTest..
+18:58:07.329 [TestNG-tests-3] INFO  resources.base - initialized driver...
+18:58:07.329 [TestNG-tests-1] INFO  resources.base - initialized driver for NavigationBarTest...
+18:58:07.329 [TestNG-tests-2] INFO  resources.base - initialized driver for ValidateTitleTest...
+18:58:07.329 [TestNG-tests-3] INFO  resources.base - Ending beforeTest for HomePageTest..
+18:58:07.357 [TestNG-tests-3] INFO  resources.base - Opening url HomePageTest
+18:58:09.347 [main] INFO  resources.base - Starting...@AfterTest NavigationBarTest
+18:58:25.930 [TestNG-tests-3] INFO  resources.base - Navigated to URL HomePageTest
+18:58:26.271 [TestNG-tests-2] INFO  resources.base - opening url for for ValidateTitleTest..
+18:58:26.271 [TestNG-tests-2] INFO  resources.base - Ending beforeTest for ValidateTitleTest..
+18:58:26.442 [TestNG-tests-2] INFO  resources.base - successfully validated ValidateTitleTest..
+18:58:26.445 [TestNG-tests-2] INFO  resources.base - Starting...@AfterTest ValidateTitleTest
+18:58:26.543 [TestNG-tests-2] INFO  resources.base - Ending...@AfterTest ValidateTitleTest
+18:58:26.590 [TestNG-tests-3] INFO  resources.base - Restricted user
+18:58:26.711 [TestNG-tests-3] INFO  resources.base - successfully validated last step in homePageLogin test
+18:58:26.713 [TestNG-tests-3] INFO  resources.base - Opening url HomePageTest
+18:58:41.790 [TestNG-tests-1] INFO  resources.base - opening url for for NavigationBarTest..
+18:58:41.791 [TestNG-tests-1] INFO  resources.base - Ending beforeTest for NavigationBarTest..
+18:58:41.891 [TestNG-tests-1] INFO  resources.base - successfully validated NavigationBarTest..
+18:58:41.892 [TestNG-tests-1] INFO  resources.base - Starting...@AfterTest NavigationBarTest
+18:58:41.937 [TestNG-tests-1] INFO  resources.base - Ending...@AfterTest NavigationBarTest
+18:58:45.551 [TestNG-tests-3] INFO  resources.base - Navigated to URL HomePageTest
+18:58:55.992 [TestNG-tests-3] INFO  resources.base - Starting...@AfterTest HomePageTest
+18:58:56.042 [TestNG-tests-3] INFO  resources.base - Ending...@AfterTest HomePageTest
+00:58:19.993 [main] INFO  resources.base - Starting beforeTest for NavigationBarTest..
+00:58:21.224 [main] INFO  resources.base - initialized driver for NavigationBarTest...
+00:58:39.045 [main] INFO  resources.base - opening url for for NavigationBarTest..
+00:58:39.045 [main] INFO  resources.base - Ending beforeTest for NavigationBarTest..
+00:58:39.179 [main] INFO  resources.base - successfully validated NavigationBarTest..
+00:58:39.185 [main] INFO  resources.base - Starting...@AfterTest NavigationBarTest
+00:58:39.241 [main] INFO  resources.base - Ending...@AfterTest NavigationBarTest
+00:58:39.532 [main] INFO  resources.base - Starting beforeTest for ValidateTitleTest..
+00:58:40.258 [main] INFO  resources.base - initialized driver for ValidateTitleTest...
+00:58:51.105 [main] INFO  resources.base - opening url for for ValidateTitleTest..
+00:58:51.105 [main] INFO  resources.base - Ending beforeTest for ValidateTitleTest..
+00:58:51.774 [main] INFO  resources.base - successfully validated ValidateTitleTest..
+00:58:51.775 [main] INFO  resources.base - Starting...@AfterTest ValidateTitleTest
+00:58:51.822 [main] INFO  resources.base - Ending...@AfterTest ValidateTitleTest
+00:58:51.857 [main] INFO  resources.base - Starting beforeTest for HomePageTest..
+00:58:52.578 [main] INFO  resources.base - initialized driver...
+00:58:52.578 [main] INFO  resources.base - Ending beforeTest for HomePageTest..
+00:58:52.584 [main] INFO  resources.base - Opening url HomePageTest
+00:59:03.714 [main] INFO  resources.base - Navigated to URL HomePageTest
+00:59:04.544 [main] INFO  resources.base - Restricted user
+00:59:04.711 [main] INFO  resources.base - successfully validated last step in homePageLogin test
+00:59:04.713 [main] INFO  resources.base - Opening url HomePageTest
+00:59:21.088 [main] INFO  resources.base - Navigated to URL HomePageTest

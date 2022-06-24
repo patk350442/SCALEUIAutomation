@@ -31,16 +31,15 @@ public class HomePageTest extends base {
 	
 	@Test(dataProvider="getData")
 	public void homePageLogin(String username,String Password,String text) throws IOException
-	{ 
+	{
 		log.info("Opening url HomePageTest");
 		driver.get(prop.getProperty("url"));
 		log.info("Navigated to URL HomePageTest");
 		HomePage hp=new HomePage(driver);
 		
 		hp.popClose().click();
-		log.info("Closed popup");
 		hp.getLogin().click();
-		log.info("Clicked on login");
+		log.info("clicked on login");
 		LoginPage lp=new LoginPage(driver);
 		lp.getEmail().sendKeys(username);
 		lp.getpassword().sendKeys(Password);
@@ -66,7 +65,6 @@ public class HomePageTest extends base {
 	@DataProvider
 	public Object[][] getData()
 	{
-		log.info("inside dataProvider");
 		Object[][] data=new Object[2][3];
 		
 		data[0][0]="restricteduser@gmail.com";
