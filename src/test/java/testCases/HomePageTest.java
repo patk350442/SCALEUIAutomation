@@ -39,6 +39,7 @@ public class HomePageTest extends base {
 		
 		hp.popClose().click();
 		hp.getLogin().click();
+		log.info("clicked on login");
 		LoginPage lp=new LoginPage(driver);
 		lp.getEmail().sendKeys(username);
 		lp.getpassword().sendKeys(Password);
