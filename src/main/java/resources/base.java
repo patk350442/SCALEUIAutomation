@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.net.URL;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
@@ -12,6 +13,9 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class base {
 	public WebDriver driver;
@@ -23,20 +27,22 @@ public class base {
 		FileInputStream fis=new FileInputStream("C:\\Users\\pmandi\\eclipse-workspacetest\\PracticeAutomation\\src\\main\\java\\resources\\data.properties");
 		prop.load(fis);
 		String browserName=prop.getProperty("browser");
-		if(browserName.contains("chrome"))
+		if(browserName.equalsIgnoreCase("chrome"))
 		{
+			DesiredCapabilities caps=new DesiredCapabilities();
+			caps.setCapability(CapabilityType.BROWSER_NAME, "chrome");
 			System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver.exe");
 			 
-			driver=new ChromeDriver();
+			driver=new RemoteWebDriver(new URL(""),caps);
 			
 		}
 		else
-		if(browserName.contains("firefox"))
+		if(browserName.equalsIgnoreCase("firefox"))
 		{
 			
 		}
 		else
-		if(browserName.contains("IE"))
+		if(browserName.equalsIgnoreCase("IE"))
 		{
 				
 		}
